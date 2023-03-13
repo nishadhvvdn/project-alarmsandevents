@@ -41,4 +41,4 @@ jobs:
           app-name: 'pilotdev-alarmsandevents'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20FD57E90E514DB09F0D3662BC65008D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F2F1B2BF3C843018C69D3190B689A84 }}
